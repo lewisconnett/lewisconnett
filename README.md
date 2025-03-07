@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Lewis
 
 ## About Me
 <!-- A brief introduction about yourself, your background, and what you're passionate about -->
@@ -46,7 +46,7 @@ Brief description of the project, technologies used, and your role.
 
 ## 📊 GitHub Stats
 <!-- You can use shields.io or GitHub stats cards here -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisconnett&show_icons=true&theme=radical)
 
 ## 🌐 Connect with me
 <!-- Additional social media or platforms -->
