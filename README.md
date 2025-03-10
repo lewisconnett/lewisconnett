@@ -37,12 +37,4 @@ A platform that allows students at the University of Brighton to easily book spo
 - LinkedIn: [Lewis LinkedIn](https://www.linkedin.com/in/lewis)
 - Twitter: [Lewis Twitter](https://twitter.com/lewis)
 
-## 📊 GitHub Stats
-![Lewis GitHub Stats](https://github-readme-stats.vercel.app/api?username=lewisconnett&show_icons=true&theme=radical)
-
-## 🌐 Connect with me
-<p align="left">
-  <a href="https://github.com/lewisconnett" target="blank"><img align="center" src="https://github.com/favicon.ico" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/lewis" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
 
