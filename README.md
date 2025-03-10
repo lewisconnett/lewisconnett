@@ -1,68 +1,48 @@
 # 👋 Hi there, I'm Lewis
 
 ## About Me
-<!-- A brief introduction about yourself, your background, and what you're passionate about -->
-I'm a [Your Profession/Role] based in [Your Location]. I'm passionate about [Your Interests] and love to [Your Hobbies].
+I'm a web developer based in the UK, passionate about building seamless user experiences and clean, efficient code. I specialise in full-stack web development, with a strong focus on PHP (Laravel), JavaScript, and modern development practices like Test-Driven Development (TDD).
 
 ## 🔭 I'm currently working on
-<!-- Share what project(s) you're currently focused on -->
-- [Project Name] - Brief description
+- **[BookMyPitch](#)** - A project designed to help students at the University of Brighton easily book sports facilities. I'm focusing on integrating a seamless booking system using Laravel and Livewire, while also ensuring a smooth user interface and robust backend functionality.
 
 ## 🌱 I'm currently learning
-<!-- Technologies or skills you're currently learning -->
-- Skill/Technology 1
-- Skill/Technology 2
+- **Test-Driven Development (TDD)** – I’m actively incorporating TDD into my workflow and have found it makes feature development easier and more reliable. 
+- **CI/CD** – I’m planning to explore Continuous Integration and Continuous Deployment to improve my development pipeline in the future.
 
 ## 💼 Skills
-<!-- Your technical skills, tools, languages, etc. -->
 ### Languages
-- Language 1
-- Language 2
-- Language 3
+- **PHP** (Laravel, Livewire)
+- **JavaScript** (Vanilla JS, React)
+- **HTML/CSS** (Responsive Web Design)
+- **Python** (for automation and scripts)
 
 ### Frameworks & Libraries
-- Framework 1
-- Framework 2
-- Library 1
+- **Laravel** (Backend Development)
+- **Livewire** (Frontend Development with Laravel)
+- **Tailwind CSS** (UI Design)
 
 ### Tools & Technologies
-- Tool 1
-- Tool 2
-- Technology 1
+- **Git** (Version Control)
+- **MySQL** (Database Management)
+- **Pest** (Testing)
+- **Mockery** (Mocking for testing)
 
 ## 🏆 Projects
-<!-- Highlight your key projects with links -->
-### [Project Name](project-link)
-Brief description of the project, technologies used, and your role.
-
-### [Project Name](project-link)
-Brief description of the project, technologies used, and your role.
+### [BookMyPitch](#)
+A platform that allows students at the University of Brighton to easily book sports facilities. Technologies used: Laravel, Livewire, MySQL, and PHPUnit. I’m working on refining the user flow, integrating booking validation, and enhancing the user experience.
 
 ## 📫 How to reach me
-<!-- Your contact information and social media links -->
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](your-linkedin-url)
-- Twitter: [Your Twitter](your-twitter-url)
+- Email: [lewis@example.com](mailto:lewis@example.com)
+- LinkedIn: [Lewis LinkedIn](https://www.linkedin.com/in/lewis)
+- Twitter: [Lewis Twitter](https://twitter.com/lewis)
 
 ## 📊 GitHub Stats
-<!-- You can use shields.io or GitHub stats cards here -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisconnett&show_icons=true&theme=radical)
+![Lewis GitHub Stats](https://github-readme-stats.vercel.app/api?username=lewisconnett&show_icons=true&theme=radical)
 
 ## 🌐 Connect with me
-<!-- Additional social media or platforms -->
 <p align="left">
-  <a href="your-link" target="blank"><img align="center" src="icon-url" alt="platform" height="30" width="40" /></a>
-  <a href="your-link" target="blank"><img align="center" src="icon-url" alt="platform" height="30" width="40" /></a>
+  <a href="https://github.com/lewisconnett" target="blank"><img align="center" src="https://github.com/favicon.ico" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/lewis" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-## ⚡ Fun fact
-<!-- Share something interesting about yourself -->
-Did you know that I [interesting fact about yourself]?
-
-<!-- Optional sections you might want to add: -->
-<!-- ## 📝 Latest Blog Posts -->
-<!-- ## 🎯 Goals for this year -->
-<!-- ## 📚 Books I'm reading -->
-
----
-⭐️ From [yourusername](https://github.com/yourusername)
