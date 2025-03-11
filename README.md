@@ -10,12 +10,12 @@ I'm a passionate **web developer** based in the UK, focused on crafting **seamle
 
 ## 🌱 I'm currently learning
 - **Test-Driven Development (TDD)** – Actively integrating **TDD** into my workflow to improve code reliability and streamline feature development.
-- **CI/CD** – Exploring **Continuous Integration** and **Continuous Deployment** to automate and optimize the deployment pipeline.
+- **CI/CD** – Exploring **Continuous Integration** and **Continuous Deployment** to automate and optimise the deployment pipeline.
 
 ## 💼 Skills
 ### 🔧 Languages & Frameworks
 - **PHP** (Laravel, Livewire)
-- **JavaScript** (Vanilla JS, React)
+- **JavaScript** (Vanilla JS)
 - **HTML/CSS** (Responsive Web Design)
 - **Python** (Automation & Scripts)
 
