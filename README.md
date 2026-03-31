@@ -1,25 +1,29 @@
-# 👋 Hi, I'm Lewis
+# Lewis Connett - Software Engineer
 
-I'm a Software Engineer with a Bachelor’s (Hons) in Computer Science, focused on Python development and building tools that solve real problems.
-
----
-
-## 🔭 Current Project
-
-FPL Assistant – A Python tool to help Fantasy Premier League players make smarter decisions through data and automation.
+CS graduate focused on Python development and algorithmic problem solving.
+Currently deepening technical foundations through daily DSA practice while 
+building production ready Python tools.
 
 ---
 
-## 🌱 Other Projects
+## Projects
 
-BookMyPitch – A platform for University of Brighton students to book sports facilities.
+**FPL Performance Optimiser** — Python, REST API, OOP
+A captaincy optimisation tool for Fantasy Premier League managers.
+Integrates live FPL API data with a custom scoring model using manually 
+selected and weighted performance factors to generate data driven captain recommendations.
+Currently migrating from CLI to Flask web application.
+
+[https://github.com/lewisconnett/fpl_assistant](#)
 
 ---
 
-## 💻 Skills
+## Technical Skills
+Python · DSA · OOP · REST APIs · SQL · Git
 
-Python – Automation, backend, data analysis
+---
 
-SQL / MySQL – Database management
-
-Git – Version control
+## Currently
+- Building technical depth through daily algorithm and data structure practice
+- Migrating FPL Optimiser to Flask web application
+- Open to junior software engineering roles from September 2026
